@@ -1,2 +1,2 @@
-# letter-project
+# letter
 "i hope you read this"
