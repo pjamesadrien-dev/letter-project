@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message = `I guess there’s no point in waiting for your answer anymore,\nbut thank you. I still appreciate the short time and effort you gave me. Stay strong, bye-bye, Miss Avoidant.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI honestly wished things turned out differently, but maybe some people are only meant to pass through our lives for a short while. Still, I’m grateful I got to know you, even for a little bit. Take care of yourself always.;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
