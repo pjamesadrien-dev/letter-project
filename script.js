@@ -1,4 +1,4 @@
-const message = 'I guess there’s no point in waiting for your answer anymore,\nbut thank you. I still appreciate the short time and effort you gave me.\nStay strong, bye-bye, Miss Avoidant.\n\nI honestly wished things turned out differently, but maybe some people are only meant to pass through our lives for a short while.\nStill, I’m grateful I got to know you, even for a little bit. Take care of yourself always.';
+const message = 'I guess there’s no point of waiting for your answer anymore,\nbut thank you. I still appreciate the short time and effort you gave me.\nStay strong to you both, bye-bye, Miss Avoidant.\n\nI honestly wished things turned out differently,We don’t always meet people who stay in our lives, but sometimes they come just to teach us something important for a short time.\nStill, I’m grateful I got to know you, even for a short time it was fun. Take care of yourself always if you need some help im always here.';
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
